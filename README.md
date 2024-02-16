@@ -10,7 +10,7 @@ Install the wasm packge with npm: https://www.npmjs.com/package/wasm-bid-lookup
 npm install wasm-bid-lookup
 ```
 
-'''javascript
+```javascript
 import * as wasm from 'wasm-bid-lookup';
 
 async function init() {
@@ -20,7 +20,7 @@ async function init() {
 init();
 ```
 
-##License
+## License
 
-##Acknowledgments
+## Acknowledgments
 Springserve
