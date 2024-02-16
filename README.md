@@ -17,7 +17,7 @@ import * as wasm from 'wasm-bid-lookup';
 ```
 
 And then initialized
-
+```
 async function init() {
   await wasm.init(); // Initialize the WebAssembly module
   // Your code to use the wasm module
